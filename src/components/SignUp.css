@@ -1,0 +1,17 @@
+.inputBox {
+    
+    display: block;
+    margin: 20px;
+    padding: 12px;
+    border: solid;
+  cursor: pointer;
+    
+}
+.signbutton{
+    margin: 25px;
+    padding: 15px;
+    width: 100px;
+    border: solid  cyan;
+    cursor: pointer;
+
+}
